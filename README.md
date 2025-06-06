@@ -44,6 +44,14 @@ Store bookmarks locally using SQLite .
 
 Support for categories (e.g. Sports, Tech, Business).
 
+📸 Screenshots
+This project includes app screenshots to showcase the UI and features.
+
+* Screenshots are located in the [screenshots](Screenshots) directory.
+
+* They demonstrate key parts of the app including onboarding, login, home page, and settings.
+
+* You can view them directly in the folder or include them in documentation/Play Store listing.
 
 📄 License
 This project is open source and available under the MIT License.
