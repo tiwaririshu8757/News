@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:newz_app/Home.dart';
+import 'package:newz_app/Homepage/Home.dart';
 import 'package:newz_app/Login/LoGin.dart';
-import 'package:newz_app/newsfeed.dart';
+import 'package:newz_app/Homepage/newsfeed.dart';
 
 void main() {
   runApp(const MyApp());

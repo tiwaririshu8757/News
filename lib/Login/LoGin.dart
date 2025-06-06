@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:newz_app/Home.dart';
+import 'package:newz_app/Homepage/Home.dart';
 
 class Login extends StatelessWidget {
   const Login({super.key});

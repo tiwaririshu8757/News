@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:newz_app/news_webview.dart';
+import 'package:newz_app/web%20_view_of_NEWZ/news_webview.dart';
 
 class NewsFeed extends StatefulWidget {
   final Function(List)? onBookmarkChanged;

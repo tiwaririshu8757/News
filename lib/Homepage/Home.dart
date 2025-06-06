@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:newz_app/newsfeed.dart';
-import 'package:newz_app/bookmark.dart';
+import 'package:newz_app/Homepage/newsfeed.dart';
+import 'package:newz_app/Homepage/bookmark.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

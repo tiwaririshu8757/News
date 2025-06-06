@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:newz_app/news_webview.dart';
+import 'package:newz_app/web%20_view_of_NEWZ/news_webview.dart';
 
 class BookmarkPage extends StatelessWidget {
   final List bookmarkedArticles;
