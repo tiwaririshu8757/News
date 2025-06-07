@@ -32,8 +32,14 @@ dependencies:
 flutter:
 sdk: flutter
 http: ^1.4.0
-webview_flutter: ^4.13.0
+* usages
+-Makes HTTP GET requests to fetch news data from a REST API
+-Parses JSON responses into Dart models
 
+webview_flutter: ^4.13.0
+* usages
+-Opens full articles in an embedded browser view.
+-Provides a smoother user experience without switching to external browser.
 
 💡 Future Improvements
 
@@ -53,5 +59,15 @@ This project includes app screenshots to showcase the UI and features.
 
 * You can view them directly in the folder or include them in documentation/Play Store listing.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# * .apk file-->
+
+      Google Drive Link----->   https://drive.google.com/file/d/1suouoIgi72lllRmy-apDFzBczxsmjkoC/view?usp=drivesdk
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📄 License
 This project is open source and available under the MIT License.
+
+🙌 Contributions
+Contributions are welcome! Open an issue or submit a PR to improve the app.
